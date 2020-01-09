@@ -1,0 +1,4 @@
+github.com/bmhatfield/go-runtime-metrics v0.0.0-20160512180836-3af15b63454c h1:w6VH4fDgQApOZo7kHcATMc7zZRQRJlbYQIzQYg8gDp8=
+github.com/bmhatfield/go-runtime-metrics v0.0.0-20160512180836-3af15b63454c/go.mod h1:79AUGR+fN30HLIzHXRHCEHU5OLBS8EoaLQ3pXYOJFPo=
+github.com/peterbourgon/g2s v0.0.0-20170223122336-d4e7ad98afea h1:sKwxy1H95npauwu8vtF95vG/syrL0p8fSZo/XlDg5gk=
+github.com/peterbourgon/g2s v0.0.0-20170223122336-d4e7ad98afea/go.mod h1:1VcHEd3ro4QMoHfiNl/j7Jkln9+KQuorp0PItHMJYNg=
